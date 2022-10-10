@@ -1,0 +1,12 @@
+# Executables
+*.exe
+*.out
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# VS Code
+.vscode
