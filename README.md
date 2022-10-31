@@ -4,3 +4,5 @@
 
 ## :pushpin: Content by weeks: 
 ### :one: Hello World
+### :two: Variable types, arithmetic and bitwise operations 
+### :three: If statements and ternary operator
