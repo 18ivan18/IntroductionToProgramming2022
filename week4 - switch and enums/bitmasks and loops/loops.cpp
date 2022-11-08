@@ -91,6 +91,4 @@ int main()
         sum += number; // sum = sum + number;
     }
     std::cout << sum << "\n";
-
-    return 0;
 }
