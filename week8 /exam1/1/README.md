@@ -18,8 +18,6 @@ $ cat input.txt
 
 ## Expected output
 ```
-2
-4
-Error. Numbers do not contain the same amaount of digits.
-Error. Numbers do not contain unique digits.
+Super-Primes less than or equal to 241 are:
+3 5 11 17 31 41 59 67 83 109 127 157 179 191 211 241
 ```
