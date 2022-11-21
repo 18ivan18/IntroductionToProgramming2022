@@ -5,7 +5,7 @@ const int base = 10;
 int uniqueDigits(int n)
 {
 
-    bool unique = 1;
+    bool unique = true;
 
     while (unique && n)
     {
