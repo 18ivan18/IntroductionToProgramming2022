@@ -137,6 +137,8 @@ Output: d:1, e:1, h:1, l:3, o:2, r:1, w:1
 **Example 1:**
 ```c++
 Input: str1 = "I love to eat, but for that I have to cook - I hate this!"
+```
+```
 Output: 
 I 
 I 
@@ -228,7 +230,7 @@ Output: separate
 
 **Example 1:**
 ```c++
-Input: str = "\"Good 4 U" is a song recorded by American singer-songwriter Olivia Rodrigo, released on May 14, 2021.\""
+Input: str = "\"Good 4 U\" is a song recorded by American singer-songwriter Olivia Rodrigo, released on May 14, 2021.\""
 Output: 2039
 ```
 
