@@ -10,3 +10,9 @@
 
 # VS Code
 .vscode
+
+# Snyc
+.dccache
+
+# Text
+*.txt
